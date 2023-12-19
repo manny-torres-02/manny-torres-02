@@ -8,7 +8,7 @@
 )
 - My pronouns are He/Him
 - Ask Me anythong about beer, some general house plants, Javascript
-- You can reach me at linked [Manuel J Torres](https://www.linkedin.com/in/jmanueltorres/) or on X at [Super_Manny02](https://twitter.com/Super_Manny02)
+- You can reach me at LinkedIn [Manuel J Torres](https://www.linkedin.com/in/jmanueltorres/) or on X at [Super_Manny02](https://twitter.com/Super_Manny02)
 
 
 <!--
